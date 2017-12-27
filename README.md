@@ -1,4 +1,7 @@
-# Collected-rocks
+# Collected Rocks
+Collected Rocks is a simple archive for gemstone collections, built to play with using Thoughtbot's Suspenders and a simple Rails project.  As the project grows, information will be built out here.
+
+The information that follows is from Suspenders' Readme.
 
 ## Getting Started
 
